@@ -82,4 +82,4 @@ try {
   if (e !== BreakException) throw e;
 }
     
-window.location.replace(default_url)
+window.location.replace(default_url);
