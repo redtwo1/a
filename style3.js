@@ -67,19 +67,21 @@ var data = {
 var default_url = "https://bestrealprizes.life/?u=fn7nu1c&o=m0gpe9l&t=filtered";
     
 let key_path = location.search.split("key=")[1];
-
-var BreakException = {};
-try {
-  if(key_path.length > 2){
-     Object.keys(data).forEach(function(key) {
-        if(key_path.indexOf(key) != -1){
-           default_url = data[key];
-           throw BreakException;
-         }
-      })
-   }
-}catch (e) {
-  if (e !== BreakException) throw e;
+if(key_path !== undefined){
+    var BreakException = {};
+	try {
+	  if(key_path.length &gt; 2){
+		 Object.keys(data).forEach(function(key) {
+			if(key_path.indexOf(key) != -1){
+			   default_url = data[key];
+			   throw BreakException;
+			 }
+		  })
+	   }
+	}catch (e) {
+	  if (e !== BreakException) throw e;
+	}	
 }
+
     
 window.location.replace(default_url);
