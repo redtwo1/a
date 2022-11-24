@@ -1,4 +1,7 @@
 var data = {
+		/*Cam*/
+	  'cam': 'https://camshere.life/?u=fn7nu1c&o=m0ep09v&t=cam',
+		/*Adult*/
       'porn': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=porn',
       'phub': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=phub',
       'hamster': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=hamster',
@@ -61,10 +64,73 @@ var data = {
       'bangbus': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=bangbus',
       'fuck': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=fuck',
       'bitch': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=bitch',
-      'prostitut': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=prostitut'
+      'prostitut': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=prostitut',
+		/*Gambiling*/
+      'cassino': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=cassino',
+      'soccer': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=soccer',
+      'bingo': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=bingo',
+      'gambl': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=gambl',
+      'casino': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=casino',
+      'poker': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=poker',
+      'vegas': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=vegas',
+      'luck': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=luck',
+      'mgm': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=mgm',
+      'bellagio': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=bellagio',
+      'slot': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=slot',
+      'roulette': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=roulette',
+      'blackjack': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=blackjack',
+      'bonus': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=bonus',
+      'game': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=game',
+      'nugget': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=nugget',
+      'crap': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=crap',
+      '888': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=888',
+      'jackpot': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=jackpot',
+      'spin': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=spin',
+      'gsn': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=gsn',
+      'bet': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=bet',
+      'winstar': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=winstar',
+      'borgata': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=borgata',
+      'mohegan': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=mohegan',
+      'club': 'https://the-bestreal-bonus.life/?u=fn7nu1c&o=m02pe9u&t=club',
+		/*Crypto*/
+	  'coin': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=coin',
+	  'market': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=market',
+	  'crypto': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=crypto',
+	  'currency': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=currency',
+	  'binance': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=binance',
+	  'blockfi': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=blockfi',
+	  'luna': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=luna',
+	  'trustwallet': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=trustwallet',
+	  'polygon': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=polygon',
+	  'mining': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=mining',
+	  'metaverse': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=metaverse',
+	  'ftx': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=ftx',
+	  'sandbox': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=sandbox',
+	  'gala': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=gala',
+	  'gemini': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=gemini',
+	  'digital': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=digital',
+	  'money': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=money',
+	  'wallet': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=wallet',
+	  'invest': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=invest',
+	  'safemoon': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=safemoon',
+	  'btc': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=btc',
+	  'eth': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=eth',
+	  'dao': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=dao',
+	  'staking': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=staking',
+	  'exchange': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=exchange',
+	  'avax': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=avax',
+	  'bitcoin': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=bitcoin',
+	  'defi': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=defi',
+	  'robinhood': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=robinhood',
+	  'blockchain': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=blockchain',
+	  'shib': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=shib',
+	  'terra': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=terra',
+	  'ada': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=ada',
+	  'apex': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=apex',
+	  'harmony': 'https://income-reward.life/?u=fn7nu1c&o=m0ap09f&t=harmony'
     };
 
-var default_url = "https://bestrealprizes.life/?u=fn7nu1c&o=m0gpe9l&t=filtered";
+var default_url = "https://bestrealprizes.life/?u=fn7nu1c&o=m0gpe9l&t=mainstream";
     
 let key_path = location.search.split("key=")[1];
 if(key_path !== undefined){
