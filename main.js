@@ -35,6 +35,7 @@ var data = {
       'luxuretv': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=luxuretv',
       'ebony': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=ebony',
       'nude': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=nude',
+      'naked': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=naked',
       'kendra': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=kendra',
       'bellringer': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=bellringer',
       'tub': 'https://bestdatingmix.life/?u=fn7nu1c&o=m0ppe9l&t=tub',
