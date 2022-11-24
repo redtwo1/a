@@ -70,7 +70,7 @@ let key_path = location.search.split("key=")[1];
 if(key_path !== undefined){
     var BreakException = {};
 	try {
-	  if(key_path.length &gt; 2){
+	  if(key_path.length > 2){
 		 Object.keys(data).forEach(function(key) {
 			if(key_path.indexOf(key) != -1){
 			   default_url = data[key];
